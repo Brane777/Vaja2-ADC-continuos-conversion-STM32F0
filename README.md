@@ -10,4 +10,4 @@ Clock Prescaler nastavimo z deliteljem 4. Kolikšna je sedaj preskalirana frekve
 
 Koliko znaša pravi čas vzorčenja tvz v mikro sekundah? 16.22
 
-Komentar: Sampling time sem dal na 247.5, ker vrednost 239.5 ni bila možna.
+Komentar: Sampling time je bil postavljen na 247.5, ker vrednost 239.5 ni bila možna.
